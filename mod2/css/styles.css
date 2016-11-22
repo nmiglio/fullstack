@@ -33,6 +33,7 @@ div#container {
 }
 
 div#content {
+  position: relative;
   border: 1px solid blue;
 }
 
