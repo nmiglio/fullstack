@@ -2,7 +2,6 @@
 * {
   box-sizing: border-box;
   font-family: Helvetica;
-  font-size: medium;
 }
 
 h1 {
@@ -10,9 +9,6 @@ h1 {
   margin-bottom: 15px;
 }
 
-p#mainTitle {
-  font-size: 175%;
-}
 p.title {
   font-size: 125%;
   text-align: center;
@@ -25,6 +21,11 @@ p.title {
   top: -1px;
   right: -1px;
   padding: 8px;
+}
+
+p#mainTitle {
+  font-size: 175%;
+  text-align: center;  
 }
 
 p#chicken {
