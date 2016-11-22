@@ -16,6 +16,16 @@ p {
   font-family: Helvetica;
   color: white;
 }
+p#title {
+  border: 3px solid black;
+  background-color: #A52A00;
+  width: 50%;
+  height: 50px;
+  margin-right: auto;
+  margin-left: auto;
+  font-family: Helvetica;
+  color: white;
+}
 
 div#container {
   position: relative;
