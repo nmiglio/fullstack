@@ -21,10 +21,11 @@ p#title {
   background-color: #A52A00;
   width: 50%;
   height: 50px;
-  margin-right: auto;
-  margin-left: auto;
+  position: relative;
+  top: 0px;
+  right: 0px;
   font-family: Helvetica;
-  color: white;
+  color: black;
 }
 
 div#container {
