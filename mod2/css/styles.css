@@ -16,6 +16,7 @@ p.title {
   right: 0px;
   font-family: Helvetica;
   color: black;
+  float: right;
 }
 p#chicken {
   background-color: LightPink;
@@ -32,6 +33,10 @@ p#sushi {
 
 div#container {
   position: relative;
+}
+
+section {
+  clear: left;
 }
 
 
