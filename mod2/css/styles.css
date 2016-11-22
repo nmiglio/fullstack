@@ -21,7 +21,7 @@ p#title {
   background-color: #A52A00;
   width: 50%;
   height: 50px;
-  position: absolute;
+  position: relative;
   top: 0px;
   right: 0px;
   font-family: Helvetica;
