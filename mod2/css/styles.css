@@ -19,12 +19,15 @@ p.title {
 }
 p#chicken {
   background-color: LightPink;
+  color: black;
 }
 p#beef {
-  background-color: #d87474;
+  background-color: #e61919;
+  color: white;
 }
 p#sushi {
   background-color: LightGoldenRodYellow;
+  color: black;
 }
 
 div#container {
