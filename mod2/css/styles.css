@@ -11,9 +11,6 @@ p.title {
   border: 3px solid black;
   width: 50%;
   height: 35px;
-  position: absolute;
-  top: -16px;
-  right: 0px;
   font-family: Helvetica;
   color: black;
   float: right;
@@ -33,6 +30,10 @@ p#sushi {
 
 div#container {
   position: relative;
+}
+
+div#content {
+  border: 1px solid blue;
 }
 
 section {
