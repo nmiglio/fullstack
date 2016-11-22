@@ -4,6 +4,7 @@
 }
 h1 {
   margin-bottom: 15px;
+  
 }
 p {
   border: 1px solid black;
@@ -15,6 +16,15 @@ p {
   font-family: Helvetica;
   color: white;
 }
+
+
+div#container {
+  background-color: #00FFFF;
+  position: relative;
+  top: 60px;
+}
+
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
