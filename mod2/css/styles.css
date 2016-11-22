@@ -12,17 +12,20 @@ p.title {
   width: 50%;
   height: 35px;
   font-family: Helvetica;
-  color: black;
   float: right;
+  margin: 0;
 }
+
 p#chicken {
   background-color: LightPink;
   color: black;
 }
+
 p#beef {
   background-color: #e61919;
   color: white;
 }
+
 p#sushi {
   background-color: LightGoldenRodYellow;
   color: black;
@@ -30,11 +33,13 @@ p#sushi {
 
 div#container {
   position: relative;
+  padding: 10px;
 }
 
 div#content {
   position: relative;
-  border: 1px solid blue;
+  border: 3px solid black;
+  background-color: lightgray;
 }
 
 section {
